@@ -4,10 +4,10 @@ on:
     branches: [ main ]
     paths-ignore : [.github/**]
   pull_request:
-    brabranches: [ main ]
-  sschedule:
+    branches: [ main ]
+  schedule:
     - cron: '15 6 * * 0'
-  woworkflow_dispatch:
+  workflow_dispatch:
 
 jobs:
   Build:
