@@ -70,3 +70,6 @@ Find common terminology for reference [here](./CheatSheet.md)
 
 ## 編集してコミットする
 test
+
+## 編集してExtended descriptionに[skip ci]
+test2
