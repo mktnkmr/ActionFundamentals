@@ -74,5 +74,5 @@ test
 ## 編集してExtended descriptionに
 test2
 
-## Pull Request
+## 編集してプルリクエストを作成する（pull_requestがトリガーされる）
 test3
