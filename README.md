@@ -71,5 +71,8 @@ Find common terminology for reference [here](./CheatSheet.md)
 ## 編集してコミットする
 test
 
-## 編集してExtended descriptionに[skip ci]
+## 編集してExtended descriptionに
 test2
+
+## Pull Request
+test3
