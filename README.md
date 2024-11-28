@@ -71,7 +71,7 @@ Find common terminology for reference [here](./CheatSheet.md)
 ## 編集してコミットする
 test
 
-## 編集してExtended descriptionに[skip ci]
+## 編集してExtended descriptionに
 test2
 
 ## 編集してプルリクエストを作成する（pull_requestがトリガーされる）
